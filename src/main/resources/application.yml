@@ -1,0 +1,17 @@
+prices:
+  coffee:
+    cappuccino: 120
+    latte: 150
+    espresso: 100
+  addon:
+    arabica: 50
+    robusta: 55
+    excelsa: 60
+    liberica: 65
+    soya: 20
+    almond: 30
+    white: 5
+    honey: 10
+  cookie:
+    chocolate: 40
+    oatmeal: 50
